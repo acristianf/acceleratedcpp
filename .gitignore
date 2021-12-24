@@ -1,0 +1,6 @@
+*.exe
+*.vim
+*.pdf
+.undodir
+.vscode
+bookexamples

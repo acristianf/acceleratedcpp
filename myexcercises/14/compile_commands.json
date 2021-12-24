@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "D:/00a_C++/00c++books/accelerated c++/myexcercises/14",
+        "command": "clang++ file.cpp -o file.exe",
+        "file": "main.cpp"
+    }
+]
